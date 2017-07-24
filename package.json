@@ -1,6 +1,6 @@
 {
   "name": "delete-branch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Delete local and remote branch",
   "bin": {
     "delete-branch": "bin/delete-branch.sh"
