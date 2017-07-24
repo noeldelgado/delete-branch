@@ -1,0 +1,21 @@
+{
+  "name": "delete-branch",
+  "version": "1.0.0",
+  "description": "Delete local and remote branch",
+  "bin": {
+    "delete-branch": "bin/delete-branch.sh"
+  },
+  "files": [
+    "bin/delete-branch.sh"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noeldelgado/delete-branch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noeldelgado/delete-branch/issues"
+  },
+  "homepage": "https://github.com/noeldelgado/delete-branch#readme"
+}
